@@ -1,0 +1,15 @@
+{
+    "name": "88696/lara_auto",
+    "autoload": {
+        "psr-4": {
+            "88696\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "3B032063",
+            "email": "3B032063@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
